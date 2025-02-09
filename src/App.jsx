@@ -95,7 +95,7 @@ function App() {
 
         < CustomerInfo />
 
-        <h1>salom user</h1>
+        <h1 className="text-[100px] text-white">salom user</h1>
       </div>
     </div>
   );
